@@ -1,2 +1,44 @@
-# CS50P-Python-Portfolio
-Curated showcase of practical assignments and my final capstone project for Harvard University's CS50P (Introduction to Programming with Python).
+# Harvard CS50P: Introduction to Programming with Python
+
+This repository serves as a public portfolio highlighting my technical milestones, core concepts mastered, and my final capstone project from Harvard University's rigorous **CS50P** curriculum. 
+
+*Note: While my weekly automated assignment sandbox remains private to comply with Harvard's academic integrity policies, this space contains verified, independent applications of my coding capabilities.*
+
+---
+
+## 🏆 Featured Capstone Project: [Your Project Title]
+
+#### 📺 Video Demonstration: [Insert Link to Your YouTube Presentation or Screencast]
+
+### 📝 Description
+[Write a comprehensive 2–3 paragraph summary of what your final project does. Detail what problem it solves, why you chose to build it, and how a user interacts with it via the command line.]
+
+### 🛠️ Technical Architecture & File Map
+To satisfy the strict technical parameters defined by the CS50 design specification, the project is structured as follows:
+* **`project.py`**: The central application script housing the core logic execution, containing at least three custom-defined functions (excluding `main`) to ensure modularity and functional design.
+* **`test_project.py`**: A comprehensive testing suite containing automated unit tests executing via `pytest` to guarantee logic correctness and edge-case validation.
+* **`requirements.txt`**: Tracks the specialized third-party dependencies required to execute the program.
+* **`README.md`**: Detailed documentation explaining the scope, implementation, and developer design choices.
+
+---
+
+## 📁 Technical Curriculum Roadmap
+
+This portfolio maps the application of concepts established across the 10 structural course blocks of CS50P:
+
+### 🐍 Core Language & Flow Control
+* **Functions & Variables:** Designing modular scopes, passing arguments, and tracking state values.
+* **Conditionals:** Implementing structural flow logic using relational operators and `match` statements.
+* **Loops:** Using computational loops (`while`, `for`) to handle complex iterations over data lists and dictionary models.
+
+### 🛡️ Defensive Programming & Testing
+* **Exceptions:** Implementing proactive error tracking utilizing `try/except/else/finally` blocks to maintain runtime stability.
+* **Unit Testing:** Transitioning from manual code debugging to writing automated evaluation tests with the `pytest` framework to enforce systemic code validation.
+
+### 📊 Data Processing & Engineering Foundations
+* **File I/O:** Reading and writing unstructured logs and structured analytical data fields directly utilizing Python's native `open` routines and the `csv` module.
+* **Regular Expressions (`re`):** Crafting structured parsing patterns to validate user syntax, extract input features, and filter data sets efficiently.
+
+### 🏗️ Advanced Paradigm Engineering
+* **Libraries & Web APIs:** Leveraging Python standard library components (`sys`, `random`) alongside third-party integration modules (`requests`) to handle web service data hooks and external API feeds.
+* **Object-Oriented Programming (OOP):** Engineering custom objects utilizing `class` architectures, managing encapsulation through custom properties, and utilizing decorators to model real-world assets.
