@@ -33,14 +33,19 @@ This portfolio maps the application of concepts established across the 10 struct
 * **Conditionals:** Implementing structural flow logic using relational operators and `match` statements.
 * **Loops:** Using computational loops (`while`, `for`) to handle complex iterations over data lists and dictionary models.
 
-### 🛡️ Defensive Programming & Testing
+### 🛡️ Error Handling & Testing
 * **Exceptions:** Implementing proactive error tracking utilizing `try/except/else/finally` blocks to maintain runtime stability.
 * **Unit Testing:** Transitioning from manual code debugging to writing automated evaluation tests with the `pytest` framework to enforce systemic code validation.
+
+### 🔌 Libraries and Web APIs
+* **Libraries & Web APIs:** Leveraging Python standard library components (`sys`, `random`) alongside third-party integration modules (`requests`) to handle web service data hooks and external API feeds.
 
 ### 📊 Data Processing & Engineering Foundations
 * **File I/O:** Reading and writing unstructured logs and structured analytical data fields directly utilizing Python's native `open` routines and the `csv` module.
 * **Regular Expressions (`re`):** Crafting structured parsing patterns to validate user syntax, extract input features, and filter data sets efficiently.
 
 ### 🏗️ Advanced Paradigm Engineering
-* **Libraries & Web APIs:** Leveraging Python standard library components (`sys`, `random`) alongside third-party integration modules (`requests`) to handle web service data hooks and external API feeds.
 * **Object-Oriented Programming (OOP):** Engineering custom objects utilizing `class` architectures, managing encapsulation through custom properties, and utilizing decorators to model real-world assets.
+
+### 🐯 FINAL CAPSTONE PROJECT
+* **Wildlife Conservation Tracker:** Houses a complete wildlife conservation analytics engine utilizing the IUCN Red List API, featuring object-oriented design, remote data parsing, and automated testing frameworks.
