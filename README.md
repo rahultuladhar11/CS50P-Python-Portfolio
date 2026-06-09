@@ -6,12 +6,14 @@ This repository serves as a public portfolio highlighting my technical milestone
 
 ---
 
-## 🏆 Featured Capstone Project: [Your Project Title]
-
-#### 📺 Video Demonstration: [Insert Link to Your YouTube Presentation or Screencast]
+## 🏆 Featured Capstone Project: Wildlife Conservation Tracker
 
 ### 📝 Description
-[Write a comprehensive 2–3 paragraph summary of what your final project does. Detail what problem it solves, why you chose to build it, and how a user interacts with it via the command line.]
+The Wildlife Conservation Tracker is a Python-based application that allows users to search for animal species using their scientific names and retrieve real conservation data from the IUCN Red List API.
+
+The program stores species data in a local database, analyzes their conservation status, and generates a structured report showing biodiversity and threat levels.
+
+This project demonstrates object-oriented programming, API integration, and data processing in Python.
 
 ### 🛠️ Technical Architecture & File Map
 To satisfy the strict technical parameters defined by the CS50 design specification, the project is structured as follows:
