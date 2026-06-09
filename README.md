@@ -37,7 +37,7 @@ This portfolio maps the application of concepts established across the 10 struct
 * **Exceptions:** Implementing proactive error tracking utilizing `try/except/else/finally` blocks to maintain runtime stability.
 * **Unit Testing:** Transitioning from manual code debugging to writing automated evaluation tests with the `pytest` framework to enforce systemic code validation.
 
-### 📊 Data Processing & Engineering Foundations
+### 📊 Data Processing
 * **File I/O:** Reading and writing unstructured logs and structured analytical data fields directly utilizing Python's native `open` routines and the `csv` module.
 * **Regular Expressions (`re`):** Crafting structured parsing patterns to validate user syntax, extract input features, and filter data sets efficiently.
 
