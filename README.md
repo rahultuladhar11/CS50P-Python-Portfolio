@@ -6,7 +6,7 @@ This repository serves as a public portfolio highlighting my technical milestone
 
 ---
 
-## 🏆 Featured Capstone Project: Wildlife Conservation Tracker
+## 🏆 Featured Capstone Project: Wildlife Conservation Tracker 🦁
 
 ### 📝 Description
 The Wildlife Conservation Tracker is a Python-based application that allows users to search for animal species using their scientific names and retrieve real conservation data from the IUCN Red List API.
